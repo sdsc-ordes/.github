@@ -8,9 +8,7 @@ We are the Open Research Data Engagement and Services (ORDES) team, a passionate
 
 We explore, innovate, and collaborate to promote [FAIR data](https://en.wikipedia.org/wiki/FAIR_data) principles. Join us in shaping the future of data science.
 
-Curious? Excited? We invite you to explore our repositories, join the conversation, and contribute to the open research data movement. 
-
-Together, let's unlock the potential of open research data for a better tomorrow! 🚀
+Curious? Excited? We invite you to explore our repositories, join the conversation, and contribute to the open research data movement. 🚀
 
 ## Connect with us:
 
@@ -19,4 +17,4 @@ Together, let's unlock the potential of open research data for a better tomorrow
 * <a rel="me" href="https://linkedin.com/company/swiss-data-science-center-sdsc"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-24.png"/> Follow SDSC on LinkedIn</a>
 
 Other SDSC teams on GitHub:
-* [Renku](https://github.com/SwissDataScienceCenter)
+* [🐸 Renku](https://github.com/SwissDataScienceCenter)
