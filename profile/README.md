@@ -1,4 +1,4 @@
-# Welcome to SDSC-ORD 🌍
+# Welcome to SDSC-ORDES 🌍
 
 ## Who We Are
 
