@@ -12,9 +12,6 @@ Curious? Excited? We invite you to explore our repositories, join the conversati
 
 ## Connect with us:
 
-* [Visit the SDSC website](https://www.datascience.ch/)
-* <a rel="me" href="https://x.com/SDSCdatascience"><img src="https://www.iconfinder.com/icons/11053969/download/png/24"/> Follow SDSC on X</a>
-* <a rel="me" href="https://linkedin.com/company/swiss-data-science-center-sdsc"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-24.png"/> Follow SDSC on LinkedIn</a>
-
-Other SDSC teams on GitHub:
+Visit the SDSC [website](https://datascience.ch) to learn more, or visit other SDSC organizations on GitHub:
 * [🐸 Renku](https://github.com/SwissDataScienceCenter)
+* [💡 Innovation](https://github.com/sdsc-innovation)
